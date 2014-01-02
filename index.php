@@ -11,7 +11,7 @@
 	}
 	$rd = rand(1,999999);
 	$ac_name        = 'arthur.girard1';
-	$ac_password    = 'AAA666';
+	$ac_password    = 'bite_cul'; // DAT PASSWORD
     $params         = '__ac_name='.$ac_name.'&__ac_password='.$ac_password;
 	$url            = 'http://ecampuslyon.epsi.fr/emploi_du_temps?date='.$dat.'&'.$params;
 
